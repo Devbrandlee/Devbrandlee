@@ -14,6 +14,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="217" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFLlK2R9iB9aQWq9i2HVy18o8drO2oRY8TA&s"  />
+</div>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -32,12 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="139" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFLlK2R9iB9aQWq9i2HVy18o8drO2oRY8TA&s"  />
 </div>
 
 ###
