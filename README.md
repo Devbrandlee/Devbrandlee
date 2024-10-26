@@ -18,11 +18,12 @@
 
 <div align="center">
   <figure style="display: inline-block; text-align: center; margin: 0;">
-    <img height="217" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFLlK2R9iB9aQWq9i2HVy18o8drO2oRY8TA&s" alt="Alan Turing, pioneiro da computação e símbolo de resistência LGBTQIAP+">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFLlK2R9iB9aQWq9i2HVy18o8drO2oRY8TA&s" alt="Alan Turing, pioneiro da computação e símbolo de resistência LGBTQIAP+" height="100" width="100">
     <br>
     <figcaption><small>Alan Turing: pioneiro da computação e símbolo de resistência LGBTQIAP+.</small></figcaption>
   </figure>
 </div>
+
 
 ###
 
