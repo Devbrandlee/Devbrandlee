@@ -9,8 +9,13 @@
 <h2 align="left">About me</h2>
 
 ###
+<p align="left">
+💻 Computer Science Student <br><br>
+🤖 Artificial Intelligence Technician (in training) <br><br>
+📚 Hobbies: Studying English and Spanish <br><br>
+🎯 Goals: Learn new things every day and be in constant evolution
+</p>
 
-<p align="left">💻 Computer Systems Student<br><br>📚 Hobbies: Studying English  and Spanish <br><br>🎯 Goals: Learn new things every day and be in constant evolution</p>
 
 ###
 
