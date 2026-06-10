@@ -10,7 +10,7 @@
 
 ###
 <p align="left">
-💻 Computer Science Student <br><br>
+💻 Business Administration undergraduate student <br><br>
 🤖 Artificial Intelligence Technician (on going) <br><br>
 📚 Hobbies: Studying English and Spanish <br><br>
 🎯 Goals: Learn new things every day and be in constant evolution
